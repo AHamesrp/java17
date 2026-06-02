@@ -1,4 +1,4 @@
-package exercisios_copilot;
+package exercicios_copilot;
 
 //6. Escreva um programa que calcule o dobro de um número informado pelo usuário.
 public class dobro {

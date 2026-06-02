@@ -78,29 +78,6 @@ public class Main {
         String minhaString = String.valueOf(numInt);
         // int -> str
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 
 }

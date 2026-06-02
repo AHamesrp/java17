@@ -1,4 +1,4 @@
-package exercisios_copilot;
+package exercicios_copilot;
 
 //10. Crie um programa que imprima a tabuada do número 5.
 public class tabuadaFive {

@@ -1,4 +1,4 @@
-package exercisios_copilot;
+package exercicios_copilot;
 
 //7. Crie um programa que imprima os números de 1 a 10.
 public class oneTen {

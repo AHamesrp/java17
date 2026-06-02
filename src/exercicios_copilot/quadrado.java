@@ -1,4 +1,4 @@
-package exercisios_copilot;
+package exercicios_copilot;
 
 //8. Faça um programa que calcule a área de um quadrado.
 public class quadrado {
