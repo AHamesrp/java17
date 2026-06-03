@@ -36,6 +36,7 @@ Perfeito, Arthur! Aqui está uma lista organizada de **30 exercícios de Java** 
 23. Escreva um programa que leia 10 números e mostre o maior e o menor.
 24. Crie um programa que leia um número e imprima sua tabuada completa (de 1 a 10).
 25. Faça um programa que leia uma nota (0 a 10) e diga se o aluno está aprovado (≥7), em recuperação (≥5 e <7) ou reprovado (<5).
+
 26. Escreva um programa que leia um número e diga se ele é primo.
 27. Crie um programa que leia uma palavra e imprima quantas letras ela tem.
 28. Faça um programa que leia um número e imprima a soma de todos os números de 1 até ele.
