@@ -1,0 +1,42 @@
+
+---
+
+####🔹 Fáceis (10)
+1. Crie um programa que leia 5 números e os armazene em um array, depois imprima todos.
+2. Faça um programa que leia uma palavra e imprima cada letra separadamente.
+3. Escreva um método que receba um número e retorne seu dobro.
+4. Crie uma classe Pessoa com atributos nome e idade, e imprima os valores.
+5. Faça um programa que leia 10 números e calcule a soma usando um array.
+6. Escreva um programa que conte quantas vogais existem em uma palavra.
+7. Crie um método que receba dois números e retorne o maior.
+8. Faça um programa que leia uma frase e a imprima em maiúsculas.
+9. Crie uma classe Carro com atributos marca e ano, e imprima um objeto criado.
+10. Escreva um programa que leia 5 números e imprima apenas os pares.
+
+---
+
+####🔹 Médios (10)
+11. Crie um programa que leia 10 números e calcule a média usando arrays.
+12. Faça um programa que leia uma palavra e verifique se é um palíndromo.
+13. Escreva um método que receba um array de números e retorne o maior elemento.
+14. Crie uma classe Aluno com atributos nome e nota, e imprima se está aprovado (nota ≥ 7).
+15. Faça um programa que leia uma frase e conte quantas vezes aparece a letra "a".
+16. Escreva um programa que leia 10 números e imprima em ordem inversa.
+17. Crie um método que receba uma string e retorne a quantidade de caracteres.
+18. Faça um programa que leia um número e trate a exceção caso o usuário digite texto em vez de número.
+19. Crie uma classe Produto com atributos nome e preço, e um método que aplique desconto de 10%.
+20. Escreva um programa que leia números até o usuário digitar 0, e depois imprima a soma deles.
+
+---
+
+####🔹 Avançados (10)
+21. Crie um programa que leia 20 números, armazene em um array e ordene-os em ordem crescente.
+22. Faça um programa que leia uma frase e imprima quantas palavras ela contém.
+23. Escreva um método que receba um array de números e retorne a soma dos elementos pares.
+24. Crie uma classe ContaBancaria com métodos depositar e sacar, e simule operações.
+25. Faça um programa que leia um arquivo .txt e imprima seu conteúdo.
+26. Escreva um programa que grave em um arquivo .txt os nomes digitados pelo usuário.
+27. Crie uma classe Livro com atributos titulo e autor, e um método que imprima uma descrição.
+28. Faça um programa que leia uma lista de números e trate exceções de divisão por zero.
+29. Escreva um programa que leia uma matriz 3x3 e imprima sua soma total.
+30. Crie uma classe Agenda que armazene contatos (nome e telefone) em um array e permita listar todos.
