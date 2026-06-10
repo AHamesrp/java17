@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //5. Faça um programa que imprima seu nome e idade.
 public class nameAge {

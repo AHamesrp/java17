@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //1. Crie um programa que imprima "Olá, Mundo!" na tela.
 public class helloWorld {

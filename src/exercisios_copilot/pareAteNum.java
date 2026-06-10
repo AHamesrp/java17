@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //22. Faça um programa que leia um número e imprima todos os números pares até ele.
 public class pareAteNum {

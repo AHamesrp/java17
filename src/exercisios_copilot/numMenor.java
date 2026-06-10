@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //17. Faça um programa que leia dois números e mostre qual é o menor.
 public class numMenor {

@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //24. Crie um programa que leia um número e imprima sua tabuada completa (de 1 a 10).
 public class tabuada {

@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //4. Crie um programa que converta metros em centímetros.
 

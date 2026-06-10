@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //16. Crie um programa que leia um número e imprima todos os números de 1 até ele.
 public class numToNum {

@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //19. Crie um programa que leia um número e mostre sua raiz quadrada.
 public class raiz {

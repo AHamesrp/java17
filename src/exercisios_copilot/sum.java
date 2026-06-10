@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //2. Faça um programa que declare duas variáveis inteiras e imprima a soma delas.
 public class sum {

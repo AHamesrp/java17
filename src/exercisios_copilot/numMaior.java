@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //13. Crie um programa que leia três números e mostre o maior deles.
 public class numMaior {

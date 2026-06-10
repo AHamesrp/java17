@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //9. Escreva um programa que calcule o perímetro de um retângulo.
 public class retangulo {

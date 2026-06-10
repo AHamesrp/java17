@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //11. Faça um programa que leia um número e diga se ele é par ou ímpar.
 public class parImpar {

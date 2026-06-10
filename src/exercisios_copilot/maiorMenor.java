@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //23. Escreva um programa que leia 10 números e mostre o maior e o menor.
 public class maiorMenor {

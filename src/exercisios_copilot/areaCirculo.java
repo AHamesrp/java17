@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //14. Faça um programa que calcule a área de um círculo.
 public class areaCirculo {

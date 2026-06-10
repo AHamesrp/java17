@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //3. Escreva um programa que calcule a média de três números inteiros.
 public class media {

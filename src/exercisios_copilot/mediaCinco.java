@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //21. Crie um programa que leia 5 números e calcule a média deles.
 public class mediaCinco {

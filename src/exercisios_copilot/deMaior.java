@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //12. Escreva um programa que leia a idade e diga se a pessoa é maior de idade.
 public class deMaior {

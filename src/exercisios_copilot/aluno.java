@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //25. Faça um programa que leia uma nota (0 a 10) e diga se o aluno
 // está aprovado (≥7), em recuperação (≥5 e <7) ou reprovado (<5).

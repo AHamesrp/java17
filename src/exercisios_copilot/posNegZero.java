@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //18. Escreva um programa que leia um número e diga se ele é positivo, negativo ou zero.
 public class posNegZero {

@@ -1,4 +1,4 @@
-package exercicios_copilot;
+package exercisios_copilot;
 
 //20. Faça um programa que leia um número e diga se ele é múltiplo de 3.
 public class multiploTres {
